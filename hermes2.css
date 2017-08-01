@@ -6,7 +6,7 @@
 }
 
 body {
-
+  height:100%;
   /*CENTER BACKGROUND IMAGE*/
   background: url(raw-materials/hermes-blue-alligator.jpg);
   background-position: center center;
@@ -90,38 +90,5 @@ body {
     max-width: 15%;
   }
 }
-
-
-/*
-@media (min-width: 400px) {
-  #spinner-div {
-    margin: 20% auto;
-  }
-}
-
-@media (min-width: 650px) {
-  #spinner-div {
-    margin: 10% auto;
-  }
-}*/
-
-
-/*@media only screen and (min-aspect-ratio: 16/9){
- #spinner-div {
-    margin: 1% auto;
-    width: 30%;
-    max-width: 40%;
-  }
-}*/
-
-
-
-/*@media only screen and (min-aspect-ratio:
-1920/1080) {
-   #spinner-div {
-    margin: 10% auto;
-  }
-
-}*/
 
 
